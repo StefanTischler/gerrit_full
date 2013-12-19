@@ -1,3 +1,6 @@
 [submodule "gerrit_sub1"]
 	path = gerrit_sub1
 	url = ../gerrit_sub1.git
+[submodule "gerrit_sub2"]
+	path = gerrit_sub2
+	url = ../gerrit_sub2.git

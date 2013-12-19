@@ -1,0 +1,3 @@
+[submodule "gerrit_sub1"]
+	path = gerrit_sub1
+	url = ../gerrit_sub1
